@@ -1347,3 +1347,11 @@ body {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+#loader{
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	background: #000000 url('https://raw.githubusercontent.com/FakeSmileVX/SmileOSWeb/main/gif/animation.gif') no-repeat center;
+	z-index: 999;
+}
